@@ -1,0 +1,9 @@
+# Testing Field
+test/
+
+#outputs
+normalFizzBuzz
+optimizedFizzBuzz
+*.out
+
+
